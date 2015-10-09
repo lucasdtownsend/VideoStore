@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\videoConnection\videoConnection\bin\Debug\videoConnection.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\videoConnection\videoConnection\obj\Debug\videoConnection.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\videoConnection\videoConnection\bin\Debug\videoConnection.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\videoConnection\videoConnection\bin\Debug\videoConnection.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\videoConnection\videoConnection\obj\Debug\videoConnection.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\videoConnection\videoConnection\obj\Debug\videoConnection.pdb
